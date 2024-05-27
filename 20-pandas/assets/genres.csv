@@ -1,0 +1,142 @@
+genre_id,genre_name
+1.0,Nonfiction
+2.0,Leadership
+3.0,Business
+4.0,Self Help
+5.0,Personal Development
+6.0,Psychology
+7.0,Management
+8.0,Education
+9.0,Philosophy
+10.0,Productivity
+11.0,History
+12.0,Personnel management
+13.0,War
+14.0,Politics
+15.0,Military Fiction
+16.0,Military History
+17.0,Economics
+18.0,Communication
+19.0,Design
+20.0,Audiobook
+21.0,Entrepreneurship
+22.0,Finance
+23.0,social sciences
+24.0,ethics
+25.0,socio-ecological crises
+26.0,political philosophy
+27.0,Sociology
+28.0,German Literature
+29.0,Psychoanalysis
+30.0,Classics
+31.0,Science
+32.0,Relationships
+33.0,How To
+34.0,Reference
+35.0,Artificial Intelligence
+36.0,Technology
+37.0,Futurism
+38.0,Computer Science
+39.0,Physics
+40.0,Social
+41.0,International Relations
+42.0,Political Science
+43.0,World History
+44.0,American History
+45.0,Informatics
+46.0,Software
+47.0,Microsoft
+48.0,Medicine
+49.0,Medical
+50.0,Textbooks
+51.0,Health
+52.0,Biology
+53.0,School
+54.0,Anatomy
+55.0,Anaesthesia
+56.0,Odontology
+57.0,Nursing
+58.0,Operating room
+59.0,Biochemistry
+60.0,Migration studies
+61.0,Healthcare
+62.0,Preventive Medicine
+63.0,Perioperative Nursing
+64.0,Languages
+65.0,French
+66.0,German
+67.0,Chemistry
+68.0,Operating Room
+69.0,Economy
+70.0,Political Economy
+71.0,Statistics
+72.0,Oral Microbiology
+73.0,Dentistry
+74.0,Sociology of Health
+75.0,Mathematics
+76.0,Popular Science
+77.0,Internal Medicine
+78.0,Computational Chemistry
+79.0,Academic
+80.0,Social Science
+81.0,Evolution
+82.0,Nature
+83.0,Quantum Mechanics
+84.0,Astronomy
+85.0,Space
+86.0,Engineering
+87.0,"Science 
+Textbooks"
+88.0,"Academic 
+School"
+89.0,Society
+90.0,Cultural
+91.0,Genomics
+92.0,Socialism
+93.0,II República
+94.0,Spain
+95.0,Spanish Literature
+96.0,"Historical
+ Memoir"
+97.0,Latin American
+98.0,Biography
+99.0,Roman Empire
+100.0,Fiction
+101.0,France
+102.0,Roman
+103.0,Literature
+104.0,Novels
+105.0,Historical Fiction
+106.0,Anthropology
+107.0,Sociology of Education
+108.0,Political Theory
+109.0,Games Theory
+110.0,Theory
+111.0,Class Conflict
+112.0,Marxism
+113.0,Social Conflict Theory
+114.0,Social Class
+115.0,Essays
+116.0,Italy
+117.0,Italian Literature
+118.0,European Literature
+119.0,Manual
+120.0,Essai
+121.0,Political theory
+122.0,Government
+123.0,Maths
+124.0,World Atlas
+125.0,Dictionary
+126.0,Language
+127.0,Russia
+128.0,Russian Literature
+129.0,Crime
+130.0,19th Century
+131.0,Mystery
+132.0,Mystery Thriller
+133.0,Detective
+134.0,British Literature
+135.0,Thriller
+136.0,Murder Mystery
+137.0,Suspense
+138.0,Pharmacology
