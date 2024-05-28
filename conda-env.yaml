@@ -1,0 +1,12 @@
+name: cas_pml
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - ipython
+    - jupyterlab
+    - pandas
+    - matplotlib
+    - scipy
+    - numpy
+    - scikit-learn
