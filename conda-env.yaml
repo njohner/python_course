@@ -10,3 +10,4 @@ dependencies:
     - scipy
     - numpy
     - scikit-learn
+    - seaborn
