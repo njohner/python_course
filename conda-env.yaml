@@ -1,4 +1,4 @@
-name: cas_pml
+name: sas_python
 channels:
     - conda-forge
 dependencies:
