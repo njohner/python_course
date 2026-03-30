@@ -1,13 +1,15 @@
-name: cas_pml
+name: sas_python
 channels:
     - conda-forge
 dependencies:
-    - python
+    - python>=3.10
     - ipython
     - jupyterlab
+    - notebook
     - pandas
     - matplotlib
     - scipy
     - numpy
     - scikit-learn
+    - ipykernel
     - seaborn
